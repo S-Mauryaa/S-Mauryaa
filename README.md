@@ -38,13 +38,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ---
+## 📫 Connect With Me
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-maurya14/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Saurabh_Omega)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.saurabhmaurya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurabhmauryaportfolio.blogspot.com/)
+
+</div>
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -60,20 +67,10 @@
 
 ## 🏆 Featured Projects
 
-### 🔥 [Paytm Wallet Clone](https://github.com/S-Mauryaa)
+### 🔥 [Paytm Wallet Clone](https://github.com/S-Mauryaa/PayTm-Full_Stack)
 A full-stack payment wallet application with user authentication, fund transfers, and transaction history
 - **Tech Stack:** React, Node.js, Express, MongoDB
 - **Features:** JWT Authentication, Real-time transactions, Secure payment processing
-
-### 🌾 [Smart Crop Advisory System](https://github.com/S-Mauryaa)
-AI-powered agricultural app for small farmers (Smart India Hackathon 2024)
-- **Tech Stack:** React Native, Python, Machine Learning, Firebase
-- **Features:** Crop recommendations, Weather alerts, Multilingual support
-
-### 🛒 [E-commerce Platform](https://github.com/S-Mauryaa)
-Modern e-commerce website with shopping cart and payment integration
-- **Tech Stack:** React, Redux, Node.js, Stripe
-- **Features:** Admin dashboard, Inventory management, Payment gateway
 
 ---
 
@@ -85,33 +82,9 @@ Modern e-commerce website with shopping cart and payment integration
 - 💡 Exploring **AI/ML integration** in web applications
 - 📚 Completing **Harkirat Singh's Cohort 2 Program**
 
----
 
-## 📫 Connect With Me
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-maurya14/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saurabh_maurya4)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.saurabhmaurya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-
-</div>
-
----
-
-## 💡 Quick Facts
-
-const saurabh = {
-location: "Greater Noida, India",
-education: "BTech CSE (AI/ML) - 3rd Year",
-currentlyLearning: ["DevOps", "System Design", "Microservices"],
-funFact: "I turn coffee into code ☕",
-askMeAbout: ["Web Dev", "MERN Stack", "React", "Node.js"],
-hobbies: ["Coding", "Hackathons", "Tech Blogging", "Open Source"]
-};
-
----
+--
 
 ## 📈 Activity Graph
 
