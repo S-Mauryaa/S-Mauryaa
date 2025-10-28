@@ -81,10 +81,7 @@ A full-stack payment wallet application with user authentication, fund transfers
 - 👯 Looking to collaborate on **open-source projects**
 - 💡 Exploring **AI/ML integration** in web applications
 - 📚 Completing **Harkirat Singh's Cohort 2 Program**
-
-
-
-
+---
 
 ## 📈 Activity Graph
 
