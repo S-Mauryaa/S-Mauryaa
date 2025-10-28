@@ -51,7 +51,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurabhmauryaportfolio.blogspot.com/)
 
 </div>
----
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,7 +84,7 @@ A full-stack payment wallet application with user authentication, fund transfers
 
 
 
---
+
 
 ## 📈 Activity Graph
 
