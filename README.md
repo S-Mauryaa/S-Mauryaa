@@ -11,8 +11,6 @@
 🌱 Currently learning **DevOps, Docker, Kubernetes** and exploring **AI/ML applications**  
 🏆 Active **Hackathon Participant** - Smart India Hackathon 2024  
 📝 Regular **LinkedIn contributor** sharing web development insights  
-🎯 Building real-world projects and contributing to open-source  
-
 ---
 
 ## 💼 Tech Stack
