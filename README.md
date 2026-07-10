@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 **BTech CSE (AI/ML)** student at Galgotia College of Engineering and Technology  
+🎓 **BTech CSE (AI/ML)** student at Galgotia College of Engineering and Technology..
 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack**  
 🌱 Currently learning **DevOps, Docker, Kubernetes** and exploring **AI/ML applications**  
 🏆 Active **Hackathon Participant** - Smart India Hackathon 2024  
