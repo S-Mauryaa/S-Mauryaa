@@ -63,12 +63,80 @@
 
 ---
 
-## 🏆 Featured Projects
+# 📌 Featured Projects
 
-### 🔥 [Paytm Wallet Clone](https://github.com/S-Mauryaa/PayTm-Full_Stack)
-A full-stack payment wallet application with user authentication, fund transfers, and transaction history
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** JWT Authentication, Real-time transactions, Secure payment processing
+## 🎓 PrepXpert
+A complete coaching institute management platform built using the MERN Stack.
+
+**Features**
+- Student Management
+- Faculty Dashboard
+- Authentication
+- Course Management
+- Responsive UI
+- REST APIs
+
+**Tech Stack**
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+
+---
+
+## 💳 Paytm Wallet Clone
+
+A digital wallet application with secure money transfer functionality.
+
+**Features**
+- Authentication
+- Wallet Balance
+- Money Transfer
+- Transaction History
+- Backend APIs
+
+**Tech Stack**
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Docker`
+
+---
+
+## 🎬 HindHua
+
+A modern Donghua streaming platform with beautiful animations.
+
+**Features**
+- Responsive UI
+- Streaming Interface
+- Fast Performance
+- Modern Design
+
+**Tech Stack**
+`React`
+`Tailwind`
+`Framer Motion`
+`Express`
+`Node.js`
+
+---
+
+## 📱 Insta Clone
+
+Instagram-inspired responsive frontend.
+
+**Features**
+- Login
+- Feed
+- Reels
+- Messages
+- Responsive Design
+
+**Tech Stack**
+`HTML`
+`CSS`
+`JavaScript`
+
+
 
 ---
 
